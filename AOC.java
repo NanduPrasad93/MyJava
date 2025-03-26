@@ -7,5 +7,6 @@ public class AOC {
         float radius = sc.nextFloat();
         float area = (float)Math.PI * radius * radius;
         System.out.println(area);
+        sc.close();
     }
 }

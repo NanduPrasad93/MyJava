@@ -7,5 +7,6 @@ public class product {
         int b = sc.nextInt();
         int mul = a * b;
         System.out.println("product is "+mul);
+        sc.close();
     }
 }

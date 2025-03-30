@@ -16,6 +16,8 @@ public class CalculatorUsingSwitch {
                 break;
             default:
                 System.out.println("get out moron");
+
+        sc.close();
         }
     }
 }

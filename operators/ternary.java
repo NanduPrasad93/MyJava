@@ -1,3 +1,4 @@
+package operators;
 import java.util.*;
 public class ternary {
     public static void main(String args[]){

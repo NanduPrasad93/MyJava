@@ -1,3 +1,4 @@
+package operators;
 public class Havefeverornot {
     public static void main(String args[]){
         double temp = 103.5;

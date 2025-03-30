@@ -1,3 +1,4 @@
+package operators;
 import java.util.*;
 public class Oddoreven {
     public static void main(String args[]){

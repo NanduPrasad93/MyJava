@@ -1,3 +1,4 @@
+package loops;
 public class ReverseAnumber {
     public static void main(String args[]){
         int num = 10897;

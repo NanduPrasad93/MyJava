@@ -1,3 +1,4 @@
+package loops;
 import java.util.*;
 public class SumOfNNatural {
     public static void main(String args[]){
